@@ -8,7 +8,7 @@
  * Return: Alwasy 0 (Succes/correct)
  */
 
-nt main(void)
+int main(void)
 {
 int n:
 
