@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/***
+/**
  * main - entry point
  *
  * Return: Alwasy 0 (Succes/correct)
