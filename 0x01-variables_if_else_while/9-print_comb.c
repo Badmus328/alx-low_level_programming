@@ -20,7 +20,7 @@ break;
 }
 
 putchar(',');
-putchar(' ');
+putchar (' ');
 
 }
 
