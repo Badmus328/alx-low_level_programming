@@ -3,7 +3,6 @@
 
 
 /**
- *
  * print_alphabet - prints every chararter of the alphabet
  */
 
