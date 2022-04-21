@@ -27,28 +27,22 @@ void times_table(void)
 					continue;
 				_putchar(',');
 				_putchar(' ');
-	
 			}
+
 			else
 			{
 
 				_putchar((n / 10) + '0');
 				_putchar((n % 10) + '0');
+				if (j == 9)
+					continue;
+				_putchar(',');
+			_putchar(' ');
+																																				}
+														}
 
-																																						if (j == 9)
+				_putchar('\n');
 
-																																												continue;
-
-																																										_putchar(',');
-
-																																														_putchar(' ');
-
-																																																	}
-
-																							}
-
-										_putchar('\n');
-
-											}
+		}
 
 }
